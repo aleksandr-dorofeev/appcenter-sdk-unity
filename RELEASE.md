@@ -1,4 +1,4 @@
-## Version 4.4.0
+## Release 4.4.0
 
 ### App Center
 
