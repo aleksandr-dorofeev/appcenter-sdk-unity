@@ -1,10 +1,10 @@
 # App Center SDK for Unity Change Log
 
-## Version 4.4.1 (Under active development)
+## Release 4.4.1 (Under active development)
 
 ___
 
-## Version 4.4.0
+## Release 4.4.0
 
 ### App Center
 
@@ -42,7 +42,7 @@ ___
 
 ___
 
-## Version 4.3.0
+## Release 4.3.0
 
 ### AppCenter
 
@@ -69,7 +69,7 @@ ___
 
 ___
 
-## Version 4.2.0
+## Release 4.2.0
 
 ### AppCenter
 
@@ -97,7 +97,7 @@ ___
 
 ___
 
-## Version 4.1.1
+## Release 4.1.1
 
 ### AppCenter
 
